@@ -34,7 +34,6 @@ source ~/.zshrc
 
 ## Fastlane
 ### 설명
-### **설명**
 Bundler 는 Ruby 프로젝트에 알맞은 Gem 과 버전을 추적할 수 있게 도와주는 라이브러리이다.<br/>
 Gem 은 Ruby 프로젝트에서의 라이브러리이다.<br/>
 Gemfile 은 Gem 을 등록하는 방식으로 의존성을 관리해주는 파일이다.<br/>
