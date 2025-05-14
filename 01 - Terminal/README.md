@@ -74,4 +74,4 @@ source ~/.zshrc
 <br/>
 
 ### 폰트 설정
-<br/>![image](./font.png)<br/>
+![image](./font.png)<br/>
